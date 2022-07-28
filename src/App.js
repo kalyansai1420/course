@@ -36,6 +36,7 @@ function App() {
             </Col>
           </Row>
         </Container>
+        <Header/>
  
 
       </Router>
